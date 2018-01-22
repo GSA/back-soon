@@ -9,6 +9,9 @@
 
     <script type="text/javascript">
       url = "digitalgov.gov";
+    </script>
+    <script type="text/javascript">
+      url = "digitalgov.gov";
       msg = "<p><strong><span>Due to a lapse in government funding</span>, all "+url+" sites, services and online survey collection requests will be unavailable until further notice.</strong></p><p class='bs_usa'>Updates regarding government operating status and resumption of normal operations can be found at <a href='https://usa.gov' title='https://usa.gov'>usa.gov</a>.</p>"
       window.onload = function() {
         document.body.innerHTML+= "<div id='bs'><div>"+msg+"<a href='#' title='Close' id='bs_close'>Continue to "+url+" »</a></div></div>";
@@ -65,11 +68,11 @@
         font-size: 18px;
         line-height: 24px;
       }
-      @media only screen and (min-width: 475px) {
+      @media only screen and (min-width: 600px) {
       	#bs div{
           padding: 2.5em 2.5em 3em 2.5em;
           top: 5em;
-          width: 60%;
+          width: 600px;
         }
       }
     </style>
