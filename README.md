@@ -2,8 +2,9 @@
 
 A simple pop-up for agency websites during a lapse in funding
 
----
+![image](https://user-images.githubusercontent.com/395641/35201292-160d46ac-fee8-11e7-8fe1-b27eca9ebbd1.png)
 
+---
 
 This bit of javascript inserts a pop-up on the screen saying,
 
@@ -12,14 +13,19 @@ This bit of javascript inserts a pop-up on the screen saying,
 **Updates regarding government operating status and resumption of normal operations can be found at <a href='https://usa.gov' title='https://usa.gov'>usa.gov</a>.**
 
 
-![image](https://user-images.githubusercontent.com/395641/35200837-cb771208-fee2-11e7-9f08-01140d7972c9.png)
+
+
+
 
 
 ---
 
 
 ## How to use this
-Copy and paste this into the `<head>` of your website
+
+1. Copy and paste this into the `<head>` of your website.
+2. Add your domain into options
+3. Publish.
 
 ```
 <!-- Back Soon! — A simple pop-up for agency websites to use during a lapse in funding https://github.com/GSA/back-soon -->
