@@ -12,6 +12,9 @@ This bit of javascript inserts a pop-up on the screen saying,
 **Updates regarding government operating status and resumption of normal operations can be found at <a href='https://usa.gov' title='https://usa.gov'>usa.gov</a>.**
 
 
+![image](https://user-images.githubusercontent.com/395641/35200837-cb771208-fee2-11e7-9f08-01140d7972c9.png)
+
+
 ---
 
 
